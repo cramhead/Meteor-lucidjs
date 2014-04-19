@@ -1,9 +1,9 @@
 {
   "name": "lucidjs",
-  "description": "REPLACEME - What does this package (or the original one you're wrapping) do?",
-  "homepage": "",
-  "author": "Your Name <your@email> (http://yoursite)",
+  "description": "Wraps the LucidJS event emitter library.",
+  "homepage": "https://github.com/cramhead/Meteor-lucidjs.git",
+  "author": "Marc d'Entremont <cramhead@gmail.com> ",
   "version": "0.0.1",
-  "git": "",
+  "git": "https://github.com/cramhead/Meteor-lucidjs.git",
   "packages": {}
 }
